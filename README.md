@@ -1,0 +1,4 @@
+jscn
+====
+
+核心JavaScript汉化 在不直接修改核心JavaScript行为的前提下,通过设置核心JavaScipr的代理类,希望能以一种优雅简洁的方式实现现有核心JavaScript的完全汉化.所谓完全汉化,即指用中文可以实现所有的JavaScript操作.
